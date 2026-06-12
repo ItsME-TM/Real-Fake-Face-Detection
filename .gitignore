@@ -1,3 +1,8 @@
-DataSet/
-logs/
-Real_Fake_Face_Detection(2020E189_2020E132).ipynb
+# Models
+Models/
+Trained_Models/
+
+# Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
